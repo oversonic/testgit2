@@ -6,5 +6,6 @@ if (isset($_POST["cmd"]) && $_POST["cmd"] == "getOrgInfo") {
 } else {
     echo "200";
     
+    echo "aaa";
 }
 ?>
